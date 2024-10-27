@@ -1,0 +1,11 @@
+To refactor:
+    [x] Crete a ray class
+    [x] Create a player class
+    [x] Create a VoxelHandler Class and attach it to the player
+    [x] attach the marker to the VoxelHandler
+    [x] Create a gamescene class and move most of the code to there
+
+To create:
+    [ ] create an  event class and attach a fw events like if the window is resized, the camera and frustrum needs to update
+    [ ] Occlusion culling to hide invisible chunks i think
+    [ ] Improve data structures to hold chunk data and stuff   
